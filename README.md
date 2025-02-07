@@ -1,6 +1,5 @@
 # Youtube_data_analysis
-Big Data Project
 
-# Prakhar Nema
-# Vaibhav Kshirsagar
+# Technologies Used 
+
 
